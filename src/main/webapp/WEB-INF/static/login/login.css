@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #222326;
+}
+
+a {
+    color: #0A0B0D;
+}
+
+a:hover {
+    color: #515659;
+}
+
+p {
+    color: #f8f9fa;
+    text-align: center;
+}
+
+.img-container {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+
+.info-container {
+    padding: 16px;
+    background-color: #848B8C;
+}
+
+.error-message {
+    color: black;
+}
+
+.login-img {
+    width: 100%;
+    max-width: 462px;
+    height: 400px;
+}
+
+.google-icon {
+    content: url('google-icon.svg');
+    height: 20px;
+    width: 20px;
+}
+
+.container {
+    margin-top: 65px
+}
